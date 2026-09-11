@@ -1,3 +1,1 @@
 CH3 HD,https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1789167603&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=_6j0V-WD9TRxvwWpB5ylLw
-CH3备用1,https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
-CH3备用2,https://ctrl.laotv.la/live/3HD/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
