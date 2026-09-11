@@ -1,1 +1,1 @@
-CH3 HD,http://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
+CH3 HD,https://ch3-33-web.cdn.byteark.com/live/1080p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1789167443&x_ark_max_resolution=1080p&x_ark_path_prefix=/live/&x_ark_signature=ZOL_RtjWBmZgxd7FnJJvRw
