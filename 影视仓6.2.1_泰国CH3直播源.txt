@@ -1,1 +1,1 @@
-CH3 HD,https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
+CH3 HD,https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1789167603&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=_6j0V-WD9TRxvwWpB5ylLw
